@@ -26,7 +26,7 @@
 - In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page.
 - After the successful installation of `python`, clone the repository into your local system using below command:
   - ```python
-     git clone https://github.com/Kshatriya770/Grocery-Store.git
+     git clone https://github.com/kumarrohan2804/Grocery-Store.git
     ```
   - This will clone the whole repository in your system.
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
